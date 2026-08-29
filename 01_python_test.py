@@ -1,0 +1,1 @@
+print([char for char in "aeiou"] + [char for char in "AEIOU"])
